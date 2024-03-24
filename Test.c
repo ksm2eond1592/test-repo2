@@ -5,5 +5,5 @@ touched by ksm2eond1592
 
 int main() {
   printf("Hello Wolrd!");
-  printf("My name is Kim Soo Min5");
+  printf("My name is Kim Soo Min6");
 }
